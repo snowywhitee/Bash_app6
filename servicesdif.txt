@@ -1,0 +1,8 @@
+***** services.txt
+SERVICE_NAME: AppHostSvc
+SERVICE_NAME: Appinfo
+SERVICE_NAME: AudioEndpointBuilder
+***** SERVICES2.TXT
+SERVICE_NAME: AppHostSvc
+SERVICE_NAME: AudioEndpointBuilder
+*****
